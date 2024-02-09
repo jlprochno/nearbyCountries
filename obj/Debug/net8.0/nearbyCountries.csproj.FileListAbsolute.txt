@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\nearbyCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\nearbyCountries.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\nearbyCountries.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\nearbyCountries.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\bin\Debug\net8.0\nearbyCountries.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\bin\Debug\net8.0\nearbyCountries.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\bin\Debug\net8.0\nearbyCountries.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\bin\Debug\net8.0\nearbyCountries.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\bin\Debug\net8.0\nearbyCountries.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\nearbyCountries.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\refint\nearbyCountries.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\nearbyCountries.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\nearbyCountries.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\nearbyCountries\obj\Debug\net8.0\ref\nearbyCountries.dll
